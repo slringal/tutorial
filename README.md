@@ -48,3 +48,4 @@
 ![image13](https://github.com/slringal/tutorial/assets/80476008/68ca9f9f-079e-4171-93a2-d4b4d9dd1d18)
 ![image12](https://github.com/slringal/tutorial/assets/80476008/c592ff37-40b7-4e85-a37b-485b6cac37fd)
 ![image11](https://github.com/slringal/tutorial/assets/80476008/9f924ca7-a4ef-48f0-9106-42ca31ff1cfc)
+![colortexture](https://github.com/slringal/tutorial/assets/80476008/cecde3e2-ea1d-4ff1-9537-0e0c80165f81)
