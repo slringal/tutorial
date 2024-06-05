@@ -14,6 +14,7 @@
 ![image1](https://github.com/slringal/tutorial/assets/80476008/53f382d9-4d07-4223-b54e-881590760892)
 ![area2](https://github.com/slringal/tutorial/assets/80476008/e6792187-d0cb-4a81-93d4-d55d88cfe03f)
 ![area](https://github.com/slringal/tutorial/assets/80476008/a89b8d46-f633-49ea-a7a8-2573a9d29795)
+![Animation31](https://github.com/slringal/tutorial/assets/80476008/720c2e7e-28fd-4bec-a29f-602deec1bee5)
 ![Animation31](https://github.com/slringal/tutorial/assets/80476008/bf5a595c-3091-4545-91fb-9c6b19a03fca)
 ![Animation30](https://github.com/slringal/tutorial/assets/80476008/eaf82921-31a4-4783-8a39-c5b8e2107d56)
 ![Animation29](https://github.com/slringal/tutorial/assets/80476008/9fe44ec9-adb0-4a43-a3d9-88d787234f91)
