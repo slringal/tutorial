@@ -50,3 +50,42 @@
 ![image12](https://github.com/slringal/tutorial/assets/80476008/c592ff37-40b7-4e85-a37b-485b6cac37fd)
 ![image11](https://github.com/slringal/tutorial/assets/80476008/9f924ca7-a4ef-48f0-9106-42ca31ff1cfc)
 ![colortexture](https://github.com/slringal/tutorial/assets/80476008/cecde3e2-ea1d-4ff1-9537-0e0c80165f81)
+
+![image](https://github.com/slringal/tutorial/assets/80476008/2c849ad4-5ee6-4633-acbf-364b07da4ee2)
+
+
+![image](https://github.com/slringal/tutorial/assets/80476008/a229288e-bb27-4527-a0e7-a41f6dd5c6fc)
+
+![image](https://github.com/slringal/tutorial/assets/80476008/bf9c6e6c-d334-4218-870c-e05f4f6735f4)
+
+Auto levels 入力レベルを自動的に調整して、黒から白までの全範囲を使用します。つまり、画像内の最も暗い値は完全な黒に調整され、最も明るい値は完全な白に調整され、コントラストが最大化されます。
+Channel mixer RGB チャンネルをミックス、スワップ、ブレンドできます。チャンネルのスウィズル、より正確なグレースケール変換、特定のパッキングに使用できます。
+Chrominance extract 入力から色度値を抽出します。結果では輝度が削除されます。
+Clamp 入力値の入力を制限します。
+Color match ソースとターゲットを定義するための入力スロットをサポートし、ソースのカラー範囲を超えたターゲットカラー範囲に一致させようとします。より単純なバージョンについては、「Replace color range」または「Replace color」を参照してください。
+Color to mask 選択した色の範囲を白黒マスクに変換します。マテリアル ID マップで使用して、特定の範囲を区別することができます。
+Contrast/Luminosity シンプルなコントラストと明度（明るさ）の調整。
+Convert to linear sRGB カラースペース イメージを線形に変換します。たとえば、写真ソース マテリアルを変換するときに便利です。
+Convert to sRGB リニア入力を sRGB カラースペースに変換します。たとえば、写真参照資料を使用して作業および変換する場合に便利です。
+Grayscale conversion advanced いくつかのプリセット変換モードを提供する、高度で迅速なグレースケール変換ノード。
+Hald CLUT 入力画像に LUT を適用します。LUT は 4096*4096 解像度の Hald 形式である必要があります。
+HDR range viewer ハイダイナミックレンジの正確な領域をチェックするためのデバッグ ツール。
+Height map frequencies mapper 高さマップの周波数を、大規模な差異を持つマップと小規模な差異を持つマップの 2 つの別々のマップに分割します。
+Highpass ハイパス フィルターを実行します。同じ名前の Photoshopフィルターに似ています。
+タイルのテクスチャをクリーンアップする場合など、画像内の大きな輝度の違いを除去するのに役立ちます。
+Histogram range グレースケール入力の範囲を縮小または移動します。コントラストと輝度と同様に、トランジションを再マップするために使用できますが、状況によってはより適切なコントロールが異なる場合があります。
+Histogram scan 入力グレースケール画像のコントラストと明るさを直感的に再マップできる、非常にシンプルですが便利なノードです。マスクを動的に「拡大」および「縮小」するために使用できます。
+Non-uniform histogram scan Histogram scanの高度なバージョンで、画像全体に均一にではなく、ピクセル単位で効果を適用するための追加のコントロールと入力を備えています。マスクでさらに複雑なコントラストとトランジションを実現するために使用できます。
+Histogram select Histogram scanと同様に、このエフェクトはグレースケール値の位置を設定し、その周囲にある範囲からフェードアウトします。コントラストを調整して、範囲をより鮮明にすることができます。
+Histogram shift 画像の全範囲を完全にシフトし、範囲の制限に達すると折り返します。
+Invert 入力色を反転します。
+Lighting cancel high frequencies Highpassに似ていますが、フルカラー画像により適しており (結果の彩度がそれほど低下しません)、このノードは高周波の小さな照明の詳細をキャンセルしようとします。
+Lighting cancel low frequencies　Highpassに似ていますが、最終結果の彩度は低下しません。
+Luminance highpass　入力の輝度値にハイパスを実行して、照明情報をキャンセルします。照明情報を使用して撮影したテクスチャを修正するのに役立ちます。Substance 3D Designerで複数のパスと組み合わせて、さまざまな周波数の照明の詳細を削除できます。Lighting cancel low frequenciesよりも色の保存性が若干優れています。
+Min max　Min Max は、グレースケール入力の最も明るい値と最も暗い値を見つけて、それらをValuesとして返します。これは、 Levelsノードの値入力を公開し、Min Max からの値をそれに接続する、Auto Levelsのより詳細な手動の代替手段として意図されています。このノードをLevelsで使用するには、少なくとも「Expose Parameter」ドロップダウンと「Value Input Tab」の使い方を知っておく必要があります。
+Pow 指定された指数で入力を乗算します。レベル中間点の調整に似ていますが、よりシンプルなパッケージです。正確な数学的乗算演算を実行する場合にも便利です。
+Quantize 入力範囲を事前定義された値の数に近似します。効果的にバンドリングを導入します。
+Replace color 色相はソースカラーをターゲットカラーに向けてシフトします。より高度なバージョンについては、「色の範囲の置換」または「色の一致」を参照してください。
+Replace color range 追加のコントロールを使用して、ソース カラーをターゲット カラーに置き換えます。たとえば、マテリアル ID マップ (ベイク) の一部の色を変更するために使用できます。 より高度なバージョンについては、「Color Match」を参照してください。
+Threshold モードパラメータで設定された比較基準が、しきい値に対する入力ピクセル値で満たされている場合は、白を返します。ヒストグラム スキャンに似ていますが、コントラストは常に最大レベルになります。ヒストグラム スキャンと同様の結果を得るための、より正確で高速な方法として機能します。
+
