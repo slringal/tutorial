@@ -142,3 +142,14 @@ Replace color 色相はソースカラーをターゲットカラーに向けて
 Replace color range 追加のコントロールを使用して、ソース カラーをターゲット カラーに置き換えます。たとえば、マテリアル ID マップ (ベイク) の一部の色を変更するために使用できます。 より高度なバージョンについては、「Color Match」を参照してください。
 Threshold モードパラメータで設定された比較基準が、しきい値に対する入力ピクセル値で満たされている場合は、白を返します。ヒストグラム スキャンに似ていますが、コントラストは常に最大レベルになります。ヒストグラム スキャンと同様の結果を得るための、より正確で高速な方法として機能します。
 
+![image](https://github.com/slringal/tutorial/assets/80476008/d6e5aeec-01d1-4265-9370-90ffbfccff9a)
+![image](https://github.com/slringal/tutorial/assets/80476008/dc574aa2-9433-4530-a697-f55a70c6afd0)
+![image](https://github.com/slringal/tutorial/assets/80476008/93f99489-1a23-48fa-b5f9-8698fac01365)
+![image](https://github.com/slringal/tutorial/assets/80476008/a9708db0-7642-4378-97cc-2a7c9dd340b3)
+![image](https://github.com/slringal/tutorial/assets/80476008/2186fdca-0b73-46fd-b6ab-bdb95639fc39)
+![image](https://github.com/slringal/tutorial/assets/80476008/3688b5db-f687-4093-a8ef-448393f41754)
+![image](https://github.com/slringal/tutorial/assets/80476008/18df8b27-8bfa-48a2-8879-5b4b5f8e2d86)
+![image](https://github.com/slringal/tutorial/assets/80476008/90d7d94e-e3ef-45d0-98f8-5804859c6929)
+![image](https://github.com/slringal/tutorial/assets/80476008/ceb982c1-a8cb-4a8a-978b-0b96f43e6c38)
+![image](https://github.com/slringal/tutorial/assets/80476008/40769b9f-537d-4052-b522-942bc0538cfa)
+![image](https://github.com/slringal/tutorial/assets/80476008/8dd9bf9e-cdce-4f68-9414-3adaac03c05b)
