@@ -172,5 +172,5 @@ Threshold モードパラメータで設定された比較基準が、しきい�
 ![Animation33](https://github.com/slringal/tutorial/assets/80476008/fae13ba4-1fca-4c41-8b75-a9854a99e17a)
 ![Animation32](https://github.com/slringal/tutorial/assets/80476008/182a4efb-afa0-4c2f-aa05-75862f1a54c0)
 
-
+![ice_texture](https://github.com/slringal/tutorial/assets/80476008/38a45389-759b-47ef-863c-0b51817da061)
 
